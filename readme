@@ -21,4 +21,4 @@ validation data.csv: Control datasets used to validate quantum hardware results 
 How to Cite:
 If you use this data or the methods described in your research, please cite the original paper:
 
-Catala Calatayud, H. (2026). Unified Hamiltonian Simulation of the Polaron-Molecule Transition on a NISQ Processor. [Link to the paper/DOI].
+Catalá Calatayud, H., Valero, E., & Rodrigo, G. (2026). Quantum Simulation of the Polaron-Molecule Transition on a NISQ Device. arXiv preprint arXiv:submit/7196424.
